@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Luiz Henrique
 
-<!--
-**luizscubas/luizscubas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development and Multiplatform student at Fatec Registro
+💻 Passionate about technology, development, and continuous learning
+🚀 Always striving to grow in both projects
 
-Here are some ideas to get you started:
+📚 Currently focused on:
+Software Engineering
+UI/UX Design
+Software Development
+Database Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Philosophy:
+“Just like training, results in coding come through consistency.”
