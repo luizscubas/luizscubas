@@ -7,10 +7,10 @@
 🚀 Always striving to grow in both projects
 
 📚 Currently focused on:
-Software Engineering
-UI/UX Design
-Software Development
-Database Systems
+Software Engineering;
+UI/UX Design;
+Software Development;
+Database Systems;
 
 💡 Philosophy:
 “Just like training, results in coding come through consistency.”
